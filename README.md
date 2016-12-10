@@ -1,1 +1,1 @@
-WebPiano - A piano made using JavaScript, HTML, and CSS
+WebPiano \n- A piano made using JavaScript, HTML, and CSS
