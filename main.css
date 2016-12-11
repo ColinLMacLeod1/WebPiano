@@ -18,7 +18,7 @@ body{
 	background-size: cover;
 	border-color: black;
 	border-radius: 0.1em;
-	height: 20em;
+	height: 25em;
 	width: 4em;
 }
 .bkey{
@@ -27,7 +27,7 @@ body{
 	border-color: black;
 	border-radius: 0.1em;
 	color: white;
-	height: 20em;
+	height: 25em;
 	width:3em;
 }
 #message{
