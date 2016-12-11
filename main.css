@@ -1,12 +1,11 @@
 body{
 	background-image: url('http://4.bp.blogspot.com/_8UZGPwu1_as/TU7eDxkseCI/AAAAAAAAALo/yhYhZsvwFyI/s1600/343434324.jpg');
-	background-width: 100vw;
-	background-height: 100vh;
+	background-size: cover;
 	background-repeat: repeat;
 	font-family: Tahoma, Geneva, sans-serif;
 }
 .title{
-	color: white;
+	color: rgba(255,255,255,0.7);
 }
 .subtitle{
 	color: rgba(255,255,255,0.5);
@@ -15,17 +14,22 @@ body{
 	color: rgba(255,255,255,0.5);
 }
 .wkey{
-	background-color:rgba(2555,255,255,1);
+	background: url('http://rlv.zcache.com/vintage_ivory_grunge_parchment_paper_background_poster-rd32de63943f34704887090cda8ec5995_wvg_8byvr_324.jpg') no-repeat center center fixed;
+	background-size: cover;
 	border-color: black;
 	border-radius: 0.1em;
-	height: 8em;
-	width: 3em;
+	height: 20em;
+	width: 4em;
 }
 .bkey{
-	background-color:rgba(0,0,0,1);
+	background: url('http://hd.wallpaperswide.com/thumbs/black_background_leather-t2.jpg') no-repeat center center fixed;
+	background-size: cover;
 	border-color: black;
 	border-radius: 0.1em;
 	color: white;
-	height: 8em;
-	width:2.5em;
+	height: 20em;
+	width:3em;
+}
+#message{
+	color: rgba(255,255,255,0.5);
 }
